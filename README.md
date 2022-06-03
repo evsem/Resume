@@ -70,6 +70,7 @@ _Опыта_ коммерческой разработки _нет_.
 - [Music Player](https://evsem.github.io/MusicApp/musicApp.html)
 - [Timer App](https://evsem.github.io/TimerApp/index.html)
 - [Quiz App](https://evsem.github.io/QuizApp/quiz.html)
+- [Notes App on React](https://github.com/evsem/NotesApp/tree/parall)
 
 **SITES**
 
@@ -80,6 +81,6 @@ _Опыта_ коммерческой разработки _нет_.
 
 ## CONTACT WITH ME
 
-- Email: frukwork@gmail.com
+- [Email](frukwork@gmail.com)
 - [Telegram](https://t.me/soua13)
 - [Discord](https://discordapp.com/users/#cosin3005/)
