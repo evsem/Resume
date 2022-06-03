@@ -1,5 +1,7 @@
 # Резюме
 
+---
+
 ## ABOUT ME
 
 Здравствуйте, меня зовут Евгений, мне 21 год.
@@ -65,13 +67,13 @@ _Опыта_ коммерческой разработки _нет_.
 
 `APPS`
 
-- [Music Player](https://evsem.github.io/MusicApp/musicApp.html)(https://github.com/evsem/MusicApp)
-- [Timer App](https://evsem.github.io/TimerApp/index.html)(https://github.com/evsem/TimerApp)
+- [Music Player](https://evsem.github.io/MusicApp/musicApp.html)
+- [Timer App](https://evsem.github.io/TimerApp/index.html)
 
 `SITES`
 
-- [Createx Courses](https://evsem.github.io/CreatexCourses2/pages/homepage.html)(https://github.com/evsem/CreatexCourses2)
-- [Jessica Web](https://evsem.github.io/JessicaWeb/jessica.html)(https://github.com/evsem/JessicaWeb)
+- [Createx Courses](https://evsem.github.io/CreatexCourses2/pages/homepage.html)
+- [Jessica Web](https://evsem.github.io/JessicaWeb/jessica.html)
 
 ---
 
