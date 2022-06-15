@@ -42,6 +42,7 @@ _Начал заниматься_ программированием и разр
 - **Markdown**
 - Пакетные менеджеры: **npm**
 - Браузеры: **Google Chrome**, **Firefox**
+- **Ant Design**
 
 В ближайшем будущем _хотел бы изучить **TypeScript**, **Redux**, **закрепить и углубить свои знания**_ в вышеперечисленных технологиях.
 
@@ -76,7 +77,6 @@ _Опыта_ коммерческой разработки _нет_.
 
 **SITES**
 
-- [Createx Courses](https://evsem.github.io/CreatexCourses2/pages/homepage.html)
 - [Jessica Web](https://evsem.github.io/JessicaWeb/jessica.html)
 
 ---
